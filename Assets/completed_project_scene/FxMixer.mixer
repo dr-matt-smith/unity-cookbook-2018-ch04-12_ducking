@@ -5,7 +5,7 @@ AudioMixerController:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Fx
+  m_Name: FxMixer
   m_OutputGroup: {fileID: 243455330233207570, guid: 6ba32de4eaf85482c8d2402f2b350a12,
     type: 2}
   m_MasterGroup: {fileID: 24300002}
